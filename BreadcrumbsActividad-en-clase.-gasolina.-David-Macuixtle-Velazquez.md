@@ -11,12 +11,13 @@ gaso = int(input("Por favor ingrese la cantidad de litros de gasolina"))  #Aqui 
 
 kilo = int(input("Por favor ingrese la cantidad de kilometros recorridos")) #Aqui se declara a variable como entero seguido de un texto
 
-div = gaso / kilo #Aqui se declara la variable con una operacion dentro
+div = kilo / gaso #Aqui se declara la variable con una operacion dentro
 
 print("La cantidad de litros usados es:",div) #Aqui se imprime el resultado
 
 BreadcrumbsActividad-en-clase.-multipliacion-gasolina.-fahren-promedio-David-Macuixtle-Velazquez
 
-![image](https://github.com/user-attachments/assets/54737863-3b78-4a4c-aea4-3173ab4ba662)
-![image](https://github.com/user-attachments/assets/61e75fd7-c1c7-4bb6-b7f5-8e1b242821f0)
+![image](https://github.com/user-attachments/assets/b1b6ad32-78e7-4596-a800-469c3147da13)
+![image](https://github.com/user-attachments/assets/b4c9c0e2-9ffd-403e-a5c9-5867eb651566)
+
 
